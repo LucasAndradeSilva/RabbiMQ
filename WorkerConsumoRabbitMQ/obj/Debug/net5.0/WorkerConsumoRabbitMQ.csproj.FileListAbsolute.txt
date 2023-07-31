@@ -1,0 +1,12 @@
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\bin\Debug\net5.0\WorkerConsumoRabbitMQ.deps.json
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\bin\Debug\net5.0\WorkerConsumoRabbitMQ.dll
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\bin\Debug\net5.0\WorkerConsumoRabbitMQ.pdb
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.csproj.AssemblyReference.cache
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.AssemblyInfoInputs.cache
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.AssemblyInfo.cs
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.csproj.CoreCompileInputs.cache
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.dll
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\refint\WorkerConsumoRabbitMQ.dll
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\WorkerConsumoRabbitMQ.pdb
+R:\TesteWoody\C#\RabbitMQ\WorkerConsumoRabbitMQ\obj\Debug\net5.0\ref\WorkerConsumoRabbitMQ.dll

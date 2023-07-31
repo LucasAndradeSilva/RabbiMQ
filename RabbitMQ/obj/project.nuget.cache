@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QEb9j728MKftAYXqmeGFNN6BuwFB759h9TRCv0d5JUOgWmgdphMtaKRMlimLP2Ad/fgp+zMj0tebJuYgthLiQ==",
+  "success": true,
+  "projectFilePath": "R:\\TesteWoody\\C#\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.andrade\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512",
+    "C:\\Users\\lucas.andrade\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\lucas.andrade\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
